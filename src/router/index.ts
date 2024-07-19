@@ -23,11 +23,11 @@ const routes = [
     }
   },
   {
-    path: '/calendar',
-    name: 'calendar',
+    path: '/analytics',
+    name: 'analytics',
     component: CalendarView,
     meta: {
-      title: 'Calendar'
+      title: 'Analytics'
     }
   },
   {
